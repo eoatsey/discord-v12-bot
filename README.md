@@ -1,15 +1,13 @@
 # How to Make a Discord V12 Bot?
 
-### **vCodes are getting stronger along with <img width="128" href="https://kayizer.com" src="https://kayizer.com/assets/img/logo.png">**
-## Sponsor: https://kayizer.com
 
-# vCodes.xyz
-**Discord Server:** [https://discord.gg/8ZBYQAS4Q9](https://discord.gg/8ZBYQAS4Q9)<br>
-**NPM:** [npmjs.com/package/vcodes.js](https://www.npmjs.com/package/vcodes.js)<br>
+# Eoatsey
+**Discord Server:** [https://discord.gg/s8zrHeX](https://discord.gg/s8zrHeX)<br>
+
 <br>
 > # Developers
-<a href="https://github.com/iClaudette">👤 Claudette</a><br>
-<a href="https://github.com/tunarjs">👤 Tunar</a>
+<a href="https://github.com/eoatsey">👤 Eoatsey</a><br>
+
 <br><br>
 > # Extra Terms of use
 <a>- You have the permission to shoot and share videos, but you have to mention us, our server, in the video.</a><br>
@@ -21,7 +19,7 @@
 
 <br><br>
 > # Demo
-<a href="https://vcodes.xyz">vcodes.xyz</a>
+<a href=""></a>
 <br>
 > # 💨 Run the projects
 [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/eoatsey/discord-v12-bot-commands)<br>
