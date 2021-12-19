@@ -3,7 +3,7 @@
 
 # Eoatsey
 **Discord Server:** [https://discord.gg/s8zrHeX](https://discord.gg/s8zrHeX)<br>
-<br><br>
+<br>
 > # Developers
 <a href="https://github.com/eoatsey">👤 Eoatsey</a>
 <br>
