@@ -1,2 +1,5 @@
-# discord-v12-bot-commands
-Discord V12 Bot Commands
+# How to Make a Discord V12 Bot?
+
+<br>
+> # Developers
+<a href="https://github.com/eoatsey">👤 Eoatsey</a><br>
